@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, htlm, css, along with c and c++
 - 💞️ I’m not looking to collaborate
 - , I am only a beginner and 17 years old.
-- 📫 How to reach me ...
+- 📫 How to reach me ... (palmtreesaway@yahoo.com)
 
 <!---
 ParkTreesaway/ParkTreesaway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
